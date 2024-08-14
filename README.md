@@ -25,7 +25,6 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -37,4 +36,26 @@
         <a href="https://www.youtube.com/v/_-4rz_Q-cLs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Rsolitario"  /></a>
       <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Rsolitario" /></a>
     </p>       
-</td>
+  </td>
+</tr>
+</table>
+</div>
+
+<div>
+  <h2>GitHub :octocat:</h2>
+  <p align="center">
+    <!--- stats (start) -->
+  <table align="left">
+    <tr border="none">
+      <td width="auto" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rsolitario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+  </p>
+</div>
+
+
+ 
+
+
