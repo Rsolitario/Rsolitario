@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋  soy Solitario / Rsolitario ✨ </h1> 
 <p align="left">
   <a href="https://www.youtube.com/@codeSaas" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Rsolitario"  /></a>
-  <a href = "mailto:caruasdo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Rsolitario"  /></a>
 </p>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
